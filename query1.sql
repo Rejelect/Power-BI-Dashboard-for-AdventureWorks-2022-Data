@@ -1,7 +1,14 @@
 SELECT p1.ProductID, 
+       p2.Name, 
+       p2.Color, 
        p1.UnitPrice, 
        p1.OrderQty, 
+       p1.LineTotal, 
+       p3.Freight, 
+       p3.TaxAmt, 
+       p3.SubTotal, 
        p3.TotalDue, 
+       p3.OrderDate,  
        CASE 
            WHEN p3.Country IN ('Southwest', 'Central', 'Northeast', 'Northwest', 'southeast') THEN 'United States'
            ELSE p3.Country
