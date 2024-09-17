@@ -12,7 +12,7 @@ Here are some screenshots of the Power BI dashboard:
 ![Dashboard Screenshot 1](./jpg/1.jpg)
 ![Dashboard Screenshot 2](./jpg/2.jpg)
 ![Dashboard Screenshot 3](./jpg/3.jpg)
-
+![Dashboard Screenshot 3](./jpg/4.jpg)
 
 ## Tools & Technologies
 - **Data Connection:** SQL Server
