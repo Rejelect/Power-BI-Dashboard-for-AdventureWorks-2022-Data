@@ -5,8 +5,6 @@
 
 This project involves creating a comprehensive sales and order analysis dashboard using the **AdventureWorks 2022** database. The dashboard is designed to provide clear insights into the sales, orders, and product performance data, allowing users to interactively explore the key metrics. SQL Server is used for data extraction, while **Python (Pandas)** is used for preprocessing and modeling.
 
-You can download and view the dashboard demonstration video here:  
-[Power BI Dashboard Demo (MP4)](./Power%20BI%20Dashboard%20for%20AdventureWorks.mp4)
 
 ## Tools & Technologies
 - **Data Connection:** SQL Server
